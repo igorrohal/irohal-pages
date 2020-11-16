@@ -6074,8 +6074,12 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-.bg-primary {
+/* .bg-primary {
   background-color: #bd5d38 !important;
+} */
+
+.bg-primary {
+  background-color: #082A4D !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9776,8 +9780,12 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
-.text-primary {
+/* .text-primary {
   color: #bd5d38 !important;
+} */
+
+.text-primary {
+  color: #082A4D !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10043,7 +10051,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.3rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
