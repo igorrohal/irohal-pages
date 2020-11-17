@@ -10120,3 +10120,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+ul.workflow a {
+    color: #082A4D;
+    text-decoration: underline;
+    background-color: transparent;
+}
